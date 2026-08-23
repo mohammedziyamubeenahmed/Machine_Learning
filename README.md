@@ -1,13 +1,16 @@
-# Machine Learning Projects
+# House Price Prediction
 
-Collection of ML algorithms and implementations covering:
+Regression modelling on the California housing dataset. Completed as
+coursework during my M.S. in Artificial Intelligence at the University
+of North Texas.
 
-- **Supervised Learning:** Linear Regression, Logistic Regression, 
-  Decision Trees, SVM, KNN
-- **Unsupervised Learning:** K-Means Clustering, PCA
-- **Neural Networks:** Basic implementations using NumPy and PyTorch
-- **Tools:** Python · Scikit-learn · NumPy · Pandas · Matplotlib
+## Contents
 
-## About
-These projects were completed as part of my MS in Artificial Intelligence 
-at the University of North Texas (GPA 3.636).
+`Project/House Price Prediction/` — exploratory data analysis, feature
+preparation, and regression models with evaluation.
+
+**Stack:** Python · pandas · NumPy · scikit-learn · Matplotlib
+
+---
+
+Early coursework, kept for reference.
